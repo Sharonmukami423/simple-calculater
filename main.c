@@ -1,6 +1,6 @@
 /*
 COUNTY LIBRARY MANAGEMENT SYSTEM
-BY Alexander Wambugu
+BY Sharon mukami
 Last Updated on 15/02/2022
 MIT LISENCE
 C99 COMPILER
